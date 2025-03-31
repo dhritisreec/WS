@@ -1,0 +1,21 @@
+Discard the current Featured projects section cards and make a new one. Add the following project titles in it.
+-Identification of phishing URLs and Websites using ML (97% accuracy)
+-Analysis of Sales: Data using ETL process and also developed key metrics and visualisations using tools like Python and Tableau to uncover meaningful relationships
+-X Comment Toxicity Detection using NLP (65% accuracy)
+-Real-Time Object Detection
+
+Also update the "Current focus" part in the "About me" section to Cloud development, ML, process automation, and building scalable database-driven applications with a focus on efficiency.
+
+Also in the "Resume & Experience" section, Trim down the description to the following-
+Associate Software Engineer
+Accenture in India
+I have been immersed in PL/SQL and APEX cloud development, honing my skills in system implementation, data analysis, quality assurance, and collaborative problem-solving. My role involves working on innovative solutions, ensuring project quality, and aligning deliverables with requirements.
+Rizzle-
+Trainee engineer
+Apr 2024 - Jun 2024 · 3 mosApr 2024 to Jun 2024 · 3 mos
+On-siteOn-site
+I developed a strong foundation in machine learning, software development, data analysis, quality assurance and product lifecycle management. My role involved collaborating with cross-functional teams to ensure seamless product delivery, conducting data-driven quality assessments, and contributing to the design, testing, and implementation of innovative solutions. This experience honed my technical expertise, problem-solving skills, and ability to adapt in fast-paced environments.I developed a strong foundation in machine learning, software development, data analysis, quality assurance and product lifecycle management. My role involved collaborating with cross-functional teams to ensure seamless product delivery, conducting data-driven quality assessments, and contributing to the design, testing, and implementation of innovative solutions. This experience honed my technical expertise, problem-solving skills, and ability to adapt in fast-paced environments.
+Marketing Intern
+Marketing Intern
+Apr 2024 - Apr 2024 · 1 moApr 2024 to Apr 2024 · 1 mo
+I was part of the team that managed Twitter campaigns by crafting engaging captions and strategically posting content to drive audience engagement. While promoting the app, I actively used the platform to understand user behavior and create relatable, impactful posts. This experience enhanced my social media marketing skills, creativity, and ability to connect with diverse audiences effectively.

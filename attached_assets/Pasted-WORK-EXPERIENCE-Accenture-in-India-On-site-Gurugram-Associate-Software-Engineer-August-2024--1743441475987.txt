@@ -1,0 +1,55 @@
+WORK EXPERIENCE
+➢
+➢
+Accenture in India On-site, Gurugram
+Associate Software Engineer August, 2024 - present
+●
+●
+●
+Participated in 2 month long intensive training focused on PL/SQL and APEX cloud development
+to build robust database-driven applications and improve backend efficiency.
+Acquired hands-on experience with Software Implementation practices, gaining a deep
+understanding of project execution, process automation, and delivery optimisation leading to a
+10% reduction in manual effort.
+Developed a strong foundation in cloud-native development across 3 platforms, data analytics and
+database management, applying skills in deploying, and maintaining scalable applications.
+Rizzle - Silverlabs India Private Limited On-site, Hyderabad
+Trainee Engineer April, 2024-July, 2024
+●
+●
+●
+Collaborated with 5 cross-functional teams to support the development of the products and
+worked hands-on with AWS and other tools like JIRA,BrowserStack to support product activities.
+Analysed data to identify bugs and ensure seamless product delivery across 4 departments.
+Ensured compliance with organisational standards during all phases of software development,
+leading to a 25% reduction in bugs and a 15% increase in ML model accuracy.
+EDUCATION
+➢
+Jawaharlal Nehru Technological University Hyderabad Hyderabad, Telangana
+B.Tech in Computer Science-Artificial Intelligence and Machine Learning 2020-2024
+●
+Led as Club Coordinator in the Literary Club, organising events, curating content, and nurturing
+professional growth among students witnessing a 25% increase in participation and great reviews.
+●
+Participated in hackathons, quizzes, and bootcamps, applying learned skills and collaborating on
+real-world challenges. Mentored over 20 students, guiding them in projects and skill development.
+SKILLS AND COMPETENCIES
+➢
+➢
+➢
+➢
+➢
+Technical Skills: Python/Sci-kit Learn, PL/SQL, MySQL, Data visualisation (Power BI and Tableau),
+Machine learning, Deep Learning, NLP, Tensorflow, ETL process, Java programming, Cloud(AWS,
+Azure, GCP, APEX-Oracle Cloud Infrastructure), MS Excel, Git, CI/CD, BigQuery, GenAI
+Certifications: Azure AI Fundamentals (AI-900), Data Analytics Essentials (Cisco), ChatGPT Prompt
+Engineering for Developers (DeepLearning.AI), Foundation of GenAI (Udacity), OCI AI Foundations
+(1Z0-1122-25), Data Analysis & Visualization: Python | Excel | BI | Tableau (Udemy)
+Awards: Led a 60-member team as Captain and Head of Operations and secured Runners-up place at the
+Indian National and Asian Regional Space Settlement Design Competition under NASA by designing a
+sustainable lunar settlement, collaborating, strategising, and presenting within 24 hours.
+Projects: Identification of phishing URLs and Websites using ML (97% accuracy), Analysis of Sales
+Data using ETL process and also developed key metrics and visualisations using tools like Python and
+Tableau to uncover meaningful relationships, X Comment Toxicity Detection using NLP (65% accuracy)
+Professional Skills: Project management, Verbal communication, Written communication, Time
+management, Adaptability, Public speaking, Presentation skills, Agile methodology, Team management

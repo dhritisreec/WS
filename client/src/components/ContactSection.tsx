@@ -131,7 +131,9 @@ const ContactSection = () => {
             </div>
 
             <a 
-              href="#" 
+              href="https://dhritisdigitaldiary.bearblog.dev" 
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-block bg-primary hover:bg-primary/90 text-white px-6 py-3 rounded-md hover:shadow-[0_0_15px_rgba(138,43,226,0.7)] transition duration-300 w-full text-center"
             >
               Visit Blog
